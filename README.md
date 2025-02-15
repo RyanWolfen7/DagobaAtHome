@@ -1,4 +1,10 @@
-# Elysia with Bun runtime
+# Degoba at Home 
+
+## Description
+This repo is skelleton for testing YodaIMDB; an in memory data base. 
+
+## Stack
+Elysia with Bun runtime.
 
 ## Getting Started
 To get started with this template, simply paste this command into your terminal:
